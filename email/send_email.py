@@ -12,7 +12,7 @@ from email.mime.text import MIMEText
 email_text = MIMEText('nihao,woshi lixiaojie ,send by lixj..','plain','utf-8')
 
 user = '1397500399@qq.com'
-passwd = 'ffaukqfltuebgheb'
+passwd = ''
 
 #收件箱
 email_to = 'lylixiaojie@163.com'
